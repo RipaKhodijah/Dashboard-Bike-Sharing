@@ -1,7 +1,6 @@
+plotly
 streamlit
 pandas
 seaborn
 matplotlib
 pillow
-plotly
-plotly.express
